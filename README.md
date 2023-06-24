@@ -8,7 +8,8 @@ Learning path for the diffusion model
 - Denoising Diffusion Probabilistic Models (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2006.11239.pdf) [[知乎]](https://zhuanlan.zhihu.com/p/619210083) [[Blog]](https://towardsdatascience.com/understanding-the-denoising-diffusion-probabilistic-model-the-socratic-way-445c1bdc5756) [[Youtube]](https://www.youtube.com/watch?v=FI0fvct0_qU) [[Github]](https://github.com/lucidrains/denoising-diffusion-pytorch)
 - Denoising Diffusion Implicit Models (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.02502.pdf) [[Github]](https://github.com/ermongroup/ddim)
 - Improved Denoising Diffusion Probabilistic Models [ICML 2021] [[Paper]](https://arxiv.org/pdf/2102.09672.pdf) [[Github]](https://github.com/openai/improved-diffusion)
-- Diffusion Models Beat GANs on Image Synthesis (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2105.05233.pdf) [[Github]](https://github.com/openai/guided-diffusion)
+- Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2011.13456.pdf) [[Github]](https://github.com/yang-song/score_sde)
+- Diffusion Models Beat GANs on Image Synthesis (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2105.05233.pdf) [[Github]](https://github.com/openai/guided-diffusion) [[Video]](https://www.youtube.com/watch?v=L9ZegT87QK8&t=9s) [[Video]](https://www.youtube.com/watch?v=wMmqCMwuM2Q)
 ## Blog
 - [[LilLog]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#nice)
 - [[Guide]](https://scale.com/guides/diffusion-models-guide#diffusion-models:-why-are-they-important?)
