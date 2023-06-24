@@ -10,6 +10,7 @@ Learning path for the diffusion model
 - Improved Denoising Diffusion Probabilistic Models [ICML 2021] [[Paper]](https://arxiv.org/pdf/2102.09672.pdf) [[Github]](https://github.com/openai/improved-diffusion)
 - Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2011.13456.pdf) [[Github]](https://github.com/yang-song/score_sde) [[Blog]](https://yang-song.net/blog/2021/score/) [[Video]](https://www.youtube.com/watch?v=L9ZegT87QK8&t=9s) [[Video]](https://www.youtube.com/watch?v=wMmqCMwuM2Q) [[video]](https://www.techbeat.net/talk-info?id=509&utm_campaign=0413%E5%AE%8B%E9%A3%8F&utm_medium=%E7%9F%A5%E4%B9%8E&utm_source=%E7%9F%A5%E4%B9%8E&gio_link_id=QReMA5LR)
 - Diffusion Models Beat GANs on Image Synthesis (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2105.05233.pdf) [[Github]](https://github.com/openai/guided-diffusion) [[Video]](https://www.youtube.com/watch?v=W-O7AZNzbzQ&t=2s)
+- Score-based Generative Modeling in Latent Space (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2106.05931.pdf) [[Github]](https://github.com/NVlabs/LSGM) [[Project]](https://nvlabs.github.io/LSGM/) [[Video]](https://www.youtube.com/watch?v=RcAoYs6M-o0)
 ## Blog
 - [[LilLog]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#nice)
 - [[Guide]](https://scale.com/guides/diffusion-models-guide#diffusion-models:-why-are-they-important?)
