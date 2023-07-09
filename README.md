@@ -1,7 +1,16 @@
 # Diffusion Model in Computer Vision
 Learning path for the diffusion model
-
-## Paper
+## Basic Knowledge
+### Annealed Importance Samling
+- Annealed Importance Sampling [[paper]](https://arxiv.org/pdf/physics/9803008.pdf) [[blog]](https://agustinus.kristia.de/techblog/2017/12/23/annealed-importance-sampling/) [[blog]](http://johnreid.github.io/2018/12/hais)
+### Score Matching
+- Estimation of Non-Normalized Statistical Models by Score Matching [[paper]](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf)
+- A Connection Between Score Matching and Denoising Autoencoders [[paper]](https://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)
+- A Kernelized Stein Discrepancy for Goodness-of-fit Tests [[Paper]](https://arxiv.org/pdf/1602.03253.pdf)
+- Sliced Score Matching: A Scalable Approach to Density and Score Estimation [[Paper]](https://arxiv.org/pdf/1905.07088.pdf)
+### Langevin Dynamics
+- Bayesian Learning via Stochastic Gradient Langevin Dynamics [[paper]](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf)
+## Main Paper
 - Deep Unsupervised Learning using Nonequilibrium Thermodynamics (ICML 2015) [[Paper]](https://arxiv.org/pdf/1503.03585.pdf)
 - Generative Modeling by Estimating Gradients of the Data Distribution (NeurLPS 2019) [[Paper]](https://arxiv.org/pdf/1907.05600.pdf) [[Youtube]](https://www.youtube.com/watch?v=8TcNXi3A5DI) [[youtube]](https://www.youtube.com/watch?v=nv-WTeKRLl0) [[知乎]](https://zhuanlan.zhihu.com/p/622285474) [[知乎]](https://zhuanlan.zhihu.com/p/597490389)[[Blog]](https://yang-song.net/blog/2021/score/)
 - Improved Techniques for Training Score-BasedGenerative Models (NeurLPS 2020) [[Paper]](https://arxiv.org/pdf/2006.09011.pdf)
