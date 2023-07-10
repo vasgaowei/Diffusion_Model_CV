@@ -11,7 +11,7 @@ Learning path for the diffusion model
 ### Langevin Dynamics
 - Bayesian Learning via Stochastic Gradient Langevin Dynamics [[paper]](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf)
 ## Main Paper
-- Deep Unsupervised Learning using Nonequilibrium Thermodynamics (ICML 2015) [[Paper]](https://arxiv.org/pdf/1503.03585.pdf)
+- Deep Unsupervised Learning using Nonequilibrium Thermodynamics (ICML 2015) [[Paper]](https://arxiv.org/pdf/1503.03585.pdf) [[paper]](https://www.youtube.com/watch?v=XLzhbXeK-Os)
 - Generative Modeling by Estimating Gradients of the Data Distribution (NeurLPS 2019) [[Paper]](https://arxiv.org/pdf/1907.05600.pdf) [[Youtube]](https://www.youtube.com/watch?v=8TcNXi3A5DI) [[youtube]](https://www.youtube.com/watch?v=nv-WTeKRLl0) [[知乎]](https://zhuanlan.zhihu.com/p/622285474) [[知乎]](https://zhuanlan.zhihu.com/p/597490389)[[Blog]](https://yang-song.net/blog/2021/score/)
 - Improved Techniques for Training Score-BasedGenerative Models (NeurLPS 2020) [[Paper]](https://arxiv.org/pdf/2006.09011.pdf)
 - Denoising Diffusion Probabilistic Models (NeurIPS 2020) [[Paper]](https://arxiv.org/pdf/2006.11239.pdf) [[知乎]](https://zhuanlan.zhihu.com/p/619210083) [[Blog]](https://towardsdatascience.com/understanding-the-denoising-diffusion-probabilistic-model-the-socratic-way-445c1bdc5756) [[Youtube]](https://www.youtube.com/watch?v=FI0fvct0_qU) [[Github]](https://github.com/lucidrains/denoising-diffusion-pytorch)
