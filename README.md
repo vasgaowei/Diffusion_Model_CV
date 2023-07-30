@@ -24,4 +24,6 @@ Learning path for the diffusion model
 ## Blog
 - [[LilLog]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#nice)
 - [[Guide]](https://scale.com/guides/diffusion-models-guide#diffusion-models:-why-are-they-important?)
+## Survey
+- Understanding Diffusion Models: A Unified Perspective (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.11970.pdf)
 ## Video
