@@ -21,6 +21,7 @@ Learning path for the diffusion model
 - Diffusion Models Beat GANs on Image Synthesis (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2105.05233.pdf) [[Github]](https://github.com/openai/guided-diffusion) [[Video]](https://www.youtube.com/watch?v=W-O7AZNzbzQ&t=2s)
 - Score-based Generative Modeling in Latent Space (NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2106.05931.pdf) [[Github]](https://github.com/NVlabs/LSGM) [[Project]](https://nvlabs.github.io/LSGM/) [[Video]](https://www.youtube.com/watch?v=RcAoYs6M-o0)
 - Classifier-Free Diffusion Guidance （NeurIPS 2021, ICLR 2022） [[Paper]](https://openreview.net/pdf?id=qw8AKxfYbI) [[Paper]](/https://arxiv.org/pdf/2207.12598.pdf) [[Github]](https://github.com/lucidrains/classifier-free-guidance-pytorch)
+- High-Resolution Image Synthesis with Latent Diffusion Models (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2112.10752.pdf) [[Github]](https://github.com/CompVis/latent-diffusion)
 ## Blog
 - [[LilLog]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#nice)
 - [[Guide]](https://scale.com/guides/diffusion-models-guide#diffusion-models:-why-are-they-important?)
