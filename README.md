@@ -23,6 +23,7 @@ Learning path for the diffusion model
 - Cascaded Diffusion Models for High Fidelity Image Generation （Arxiv 2021）[[Paper]](https://arxiv.org/pdf/2106.15282.pdf)
 - Classifier-Free Diffusion Guidance （NeurIPS 2021, ICLR 2022） [[Paper]](https://openreview.net/pdf?id=qw8AKxfYbI) [[Paper]](/https://arxiv.org/pdf/2207.12598.pdf) [[Github]](https://github.com/lucidrains/classifier-free-guidance-pytorch)
 - High-Resolution Image Synthesis with Latent Diffusion Models (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2112.10752.pdf) [[Github]](https://github.com/CompVis/latent-diffusion)
+- GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models (ICML 2022) [[Paper]](https://arxiv.org/pdf/2112.10741.pdf)[[Tensorflow]](https://github.com/openai/glide-text2im) [[Pytorch]](https://github.com/lucidrains/denoising-diffusion-pytorch)
 ## Blog
 - [[LilLog]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#nice)
 - [[Guide]](https://scale.com/guides/diffusion-models-guide#diffusion-models:-why-are-they-important?)
