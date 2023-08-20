@@ -24,6 +24,8 @@ Learning path for the diffusion model
 - Classifier-Free Diffusion Guidance （NeurIPS 2021, ICLR 2022） [[Paper]](https://openreview.net/pdf?id=qw8AKxfYbI) [[Paper]](/https://arxiv.org/pdf/2207.12598.pdf) [[Github]](https://github.com/lucidrains/classifier-free-guidance-pytorch)
 - High-Resolution Image Synthesis with Latent Diffusion Models (CVPR 2022) [[Paper]](https://arxiv.org/pdf/2112.10752.pdf) [[Github]](https://github.com/CompVis/latent-diffusion)
 - GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models (ICML 2022) [[Paper]](https://arxiv.org/pdf/2112.10741.pdf)[[Tensorflow]](https://github.com/openai/glide-text2im) [[Pytorch]](https://github.com/lucidrains/denoising-diffusion-pytorch)
+- Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (NeurIPS 2022) [[Paper]](https://arxiv.org/pdf/2205.11487.pdf) [[Github]](https://github.com/lucidrains/imagen-pytorch)
+- DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (CVPR 2023) [[Paper]](https://arxiv.org/pdf/2208.12242.pdf) [[Project]](https://dreambooth.github.io/) [[Github]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 ## Blog
 - [[LilLog]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#nice)
 - [[Guide]](https://scale.com/guides/diffusion-models-guide#diffusion-models:-why-are-they-important?)
