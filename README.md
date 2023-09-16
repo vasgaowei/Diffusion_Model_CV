@@ -32,6 +32,7 @@ Learning path for the diffusion model
 - [[Guide]](https://scale.com/guides/diffusion-models-guide#diffusion-models:-why-are-they-important?)
 - [[Blog]](https://browser.alibaba-inc.com/?Url=http://www.zhangzhenhu.com/aigc/ddim.html)
 - [[Blog]](https://priorkexue.fm/archives/9181)
+- [[Blog]](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 ## Survey
 - Understanding Diffusion Models: A Unified Perspective (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.11970.pdf)
 ## Video
