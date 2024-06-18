@@ -37,4 +37,5 @@ Learning path for the diffusion model
 - Understanding Diffusion Models: A Unified Perspective (Arxiv 2022) [[Paper]](https://arxiv.org/pdf/2208.11970.pdf)
 - Diffusion Models: A Comprehensive Survey of Methods and Applications [[Ppaer]](https://arxiv.org/pdf/2209.00796.pdf)
 - Tutorial on Diffusion Models for Imaging and Vision [[Paper]](https://arxiv.org/abs/2403.18103)
+- Step-by-Step Diffusion: An Elementary Tutorial [[Paper]](https://arxiv.org/pdf/2406.08929)
 ## Video
